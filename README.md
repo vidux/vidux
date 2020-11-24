@@ -1,12 +1,8 @@
-### Hi there 👋 
-
-## like to work with these technologies
+### Hi there! welcome! 👋 
 
 ![phplaravel](https://user-images.githubusercontent.com/24480091/87252572-d6b96e00-c491-11ea-83b7-28ef71328d5e.png) ![reactnative](https://user-images.githubusercontent.com/24480091/87252578-e46ef380-c491-11ea-9fe6-c9beb7f18917.png)
 
 
-## Started to learn
-![flutter](https://user-images.githubusercontent.com/24480091/87252682-aa522180-c492-11ea-8045-eb25aeffe086.png)
 ___
 
 ![jj](https://user-images.githubusercontent.com/24480091/87253208-f010e900-c496-11ea-9b8f-5eab6705a052.png)
