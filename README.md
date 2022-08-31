@@ -15,7 +15,9 @@ ___
 
 
 
-<p><img  src="https://img.shields.io/badge/Javascript-yellow?logo=javascript&logoColor=black" />
+<p><img  src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+<img  src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white" />
+
 <img  src="https://img.shields.io/badge/ReactJs-blue?logo=react" />
 <img  src="https://img.shields.io/badge/VueJs-green?logo=Vue.js&labelColor=C9FFD1" />
 <img  src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
